@@ -24,7 +24,7 @@ Output Format
 
 Output the total number of students who have at least one subscription.
 
-Sample Input
+Same soltuion for union, intersection, difference and symmetric between two sets
 
 '''
 
